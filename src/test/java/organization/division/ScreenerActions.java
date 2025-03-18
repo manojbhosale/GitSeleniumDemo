@@ -70,7 +70,9 @@ public class ScreenerActions {
 		System.out.println("test print 2");
 		System.out.println("test print 3");
 		
-		
+		System.out.println("test print 4");
+		System.out.println("test print 5");
+		System.out.println("test print 6");
 	}
 	
 	public static void findPERatio(WebDriver driver, String companyName) throws InterruptedException {
