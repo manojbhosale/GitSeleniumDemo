@@ -112,5 +112,9 @@ public class ScreenerActions {
 		
 		
 	}
+	
+	public void testAmericanMethod() {
+		System.out.println("test print");
+	}
 
 }
